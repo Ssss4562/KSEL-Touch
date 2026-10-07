@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KSEL Touch</string>
+    <string name="app_dialer">Телефон</string>
+    <string name="app_messages">Сообщения</string>
+    <string name="app_camera">Камера</string>
+    <string name="app_contacts">Контакты</string>
+    <string name="app_calendar">Календарь</string>
+    <string name="app_sound">Звук</string>
+    <string name="contacts">Контакты</string>
+    <string name="files">Файлы</string>
+    <string name="no_app">%1$s: приложение не найдено</string>
+    <string name="missed">пропущ.</string>
+    <string name="unread">непрочит.</string>
+    <string name="ram">МБ свободно</string>
+    <string name="tasks_empty">Нет запущенных приложений</string>
+    <string name="next">Далее</string>
+    <string name="previous">Назад</string>
+    <string name="soft_select">Выбрать</string>
+    <string name="soft_back">Назад</string>
+    <string name="soft_options">Опции</string>
+    <string name="soft_menu">Меню</string>
+    <string name="soft_contacts">Контакты</string>
+    <string name="soft_change">Изменить</string>
+    <string name="title_options">Настройки</string>
+    <string name="title_apps">Приложения</string>
+    <string name="set_apps">Приложения</string>
+    <string name="set_clock">Часы</string>
+    <string name="set_bg">Фон</string>
+    <string name="set_launcher">Настройки KSEL</string>
+    <string name="v_wall">Обои</string>
+    <string name="v_dark">Тёмный</string>
+    <string name="show_all">Показать все</string>
+    <string name="hidden_tag">скрыто</string>
+    <string name="set_anim">Анимация</string>
+    <string name="set_sounds">Звуки</string>
+    <string name="set_numbers">Номера клавиш</string>
+    <string name="set_vib">Виброзапуск</string>
+    <string name="v_full">Полные</string>
+    <string name="v_simple">Простые</string>
+    <string name="v_none">Выкл</string>
+    <string name="v_on">Вкл</string>
+    <string name="v_off">Выкл</string>
+    <string name="empty_apps">Нет приложений</string>
+    <string name="settings_hint">МЕНЮ: настройки   ВЫЗОВ: звонок   1–9,0,*,#: переход</string>
+</resources>

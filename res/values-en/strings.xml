@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KSEL Touch</string>
+    <string name="app_dialer">Phone</string>
+    <string name="app_messages">Messaging</string>
+    <string name="app_camera">Camera</string>
+    <string name="app_contacts">Contacts</string>
+    <string name="app_calendar">Calendar</string>
+    <string name="app_sound">Sound</string>
+    <string name="contacts">Contacts</string>
+    <string name="files">Files</string>
+    <string name="no_app">%1$s: no such application</string>
+    <string name="missed">missed</string>
+    <string name="unread">unread</string>
+    <string name="ram">MB available</string>
+    <string name="tasks_empty">No running applications</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="soft_select">Select</string>
+    <string name="soft_back">Back</string>
+    <string name="soft_options">Options</string>
+    <string name="soft_menu">Menu</string>
+    <string name="soft_contacts">Contacts</string>
+    <string name="soft_change">Change</string>
+    <string name="title_options">Options</string>
+    <string name="title_apps">Applications</string>
+    <string name="set_apps">Applications</string>
+    <string name="set_clock">Clock</string>
+    <string name="set_bg">Background</string>
+    <string name="set_launcher">KSEL Settings</string>
+    <string name="v_wall">Wallpaper</string>
+    <string name="v_dark">Dark</string>
+    <string name="show_all">Show all</string>
+    <string name="hidden_tag">hidden</string>
+    <string name="set_anim">Animation</string>
+    <string name="set_sounds">Sounds</string>
+    <string name="set_numbers">Show numbers</string>
+    <string name="set_vib">Vibration</string>
+    <string name="v_full">Full</string>
+    <string name="v_simple">Reduced</string>
+    <string name="v_none">Off</string>
+    <string name="v_on">On</string>
+    <string name="v_off">Off</string>
+    <string name="empty_apps">No applications</string>
+    <string name="settings_hint">MENU: settings   CALL: dialer   1-9,0,*,#: jump</string>
+</resources>
